@@ -39,5 +39,5 @@ Each contact contains:
   - 'main.cpp' - Main C++ program.
   - 'README.md' - Project documentation.
   - 'contact.txt' - Sample contact data.
-  - 'output1.png' - Sample program output.
-  -  output2.png
+  - 'output1.jpg' - Sample program output.
+  -  output2.jpg
